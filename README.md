@@ -2,4 +2,4 @@
 
 to create WC bp file emuneratively
 
-by Baihan Lin, Baker Lab
+by Baihan Lin, Baker Lab, Nov 2015
